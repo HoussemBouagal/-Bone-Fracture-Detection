@@ -2,7 +2,7 @@
 
 🔍 A lightweight and intuitive desktop application that uses a deep learning model to detect **bone fractures** from X-ray images. Developed with **TensorFlow** and **Tkinter** for real-time, offline usage.
 
-![screenshot](screenshots/app_ui.png)
+![screenshot](Screenshots/app_ui.png)
 
 ---
 
@@ -40,7 +40,7 @@
 - **Classes**:
   - `Fractured`
   - `Not Fractured`
-- **Accuracy**: `96.45%`
+- **Accuracy**: `99.65%`
 - **Loss function**: Categorical Crossentropy
 - **Optimizer**: Adam
 
@@ -50,11 +50,11 @@
 
 ### 🎯 Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](Screenshots/confusion_matrix.png)
 
 ### 📈 Accuracy Curve
 
-![Accuracy](screenshots/accuracy_plot.png)
+![Accuracy](Screenshots/accuracy_plot.png)
 
 ---
 
