@@ -50,7 +50,7 @@
 
 ### 🎯 Confusion Matrix
 
-![Confusion Matrix](Screenshots/confusion_matrix.png)
+![Confusion Matrix](Screenshots/confusion.png)
 
 ### 📈 Accuracy Curve
 
