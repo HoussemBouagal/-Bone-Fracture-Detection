@@ -82,7 +82,7 @@ tk
 Run the app using:
 
 ```bash
-python app.py
+python main.py
 ```
 
 Then click on `📂 Load Image` and select an X-ray image.
